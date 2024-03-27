@@ -1,1 +1,1 @@
-# Hospital_Management_System
+It is a Hospital Management System project,It is created with the  help of JSP(Java Serever Page) and i have used several technologies Html,CSS and JavaScript in this project.This project contains receptionist Registration page and toggles with patient registartion and sign in Operations.
